@@ -29,7 +29,7 @@ public:
     }
 };
 
-int main() {
+int main () {
     Complex obj1(3,4), obj2(4,5), obj3;
     obj3 = obj1.sum(obj2);
 

@@ -1,53 +1,33 @@
-# 🎓 College Project Files
+ College Project Files
 
-Welcome to the **College Project Files** repository!  
-
-This repository contains a collection of sample projects and code examples in various programming languages for learning, practice, or as references for college projects. You are free to use, modify, or remake these files.
+This repository contains folders for different programming languages and technologies, each with their own set of example files and scripts. Below is a summary in both English and Hinglish (Hindi-English mix).
 
 ---
 
-## 🗂 Repository Contents
+ English
 
-### 1. **HTML**
-Web development examples including basic web pages, forms, and layouts.
-- `index.html` – Example of a simple webpage.
-- `form.html` – Example of a contact form.
-- `portfolio.html` – Sample portfolio page.
+- **C++**: Contains C++ source files demonstrating classes, functions, and algorithms.
+- **HTML**: Includes HTML files for web page layouts, forms, tables, and more.
+- **PHP**: Features PHP scripts for basic programming and web development tasks.
+- **PLSQL**: Holds PL/SQL scripts for database operations and queries.
+- **PYTHON**: Contains Python scripts for algorithms, data structures, and problem-solving.
 
-### 2. **CSS**
-Styling examples for HTML pages.
-- `style.css` – Main stylesheet for HTML pages.
-- `responsive.css` – Example of responsive design using media queries.
-
-### 3. **Python**
-Python scripts and beginner programs.
-- `calculator.py` – Simple calculator program.
-- `student_info.py` – Example of managing student data.
-- `basic_game.py` – Small console-based game.
-
-### 4. **C++**
-Basic algorithms and console programs.
-- `hello_world.cpp` – Classic "Hello World" program.
-- `matrix_operations.cpp` – Matrix addition and multiplication.
-- `sorting_algorithms.cpp` – Examples of bubble, selection, and insertion sort.
-
-### 5. **PHP**
-Server-side programming examples.
-- `login.php` – Simple login form with PHP validation.
-- `register.php` – User registration example.
-- `contact.php` – PHP script to handle contact form submission.
-
-### 6. **PL/SQL**
-Database and SQL projects.
-- `student_db.sql` – Example database for student records.
-- `queries.sql` – Sample SQL queries for learning.
-- `procedures.sql` – Stored procedures examples.
+Each folder has its own README with a list of files and a brief description.
 
 ---
 
-## 💡 How to Use
+Hinglish (Hindi-English Mix)
 
-1. **Clone or download the repository:**  
-   ```bash
-   git clone https://github.com/mohprajapati143-a11y/College_Project_Files.git
-M
+- **C++**: Is folder mein C++ ke source files hain, jaise ki classes, functions, aur algorithms ke examples.
+- **HTML**: Yahan HTML files hain jo web page layouts, forms, tables, etc. dikhate hain.
+- **PHP**: PHP scripts milenge jo basic programming aur web development ke liye hain.
+- **PLSQL**: Ismein PL/SQL scripts hain jo database operations aur queries ke liye use hote hain.
+- **PYTHON**: Python ke scripts hain, algorithms, data structures, aur problem-solving ke examples ke saath.
+
+Har folder ke andar ek README file hai jismein uske files ki list aur unka short description diya gaya hai.
+
+---
+
+Feel free to explore each folder for more details!
+
+Har folder ko explore karo, aur details dekho!

@@ -1,0 +1,20 @@
+{
+  "extends": [
+    "development"
+  ],
+  "hints": {
+    "compat-api/css": [
+      "default",
+      {
+        "ignore": [
+          "clip-path: rect(0, 900px, 0, 0)",
+          "clip-path: rect(10px, 900px, 80px, 0)",
+          "clip-path: rect(5px, 900px, 60px, 0)",
+          "clip-path: rect(10px, 900px, 40px, 0)",
+          "backdrop-filter",
+          "clip-path: rect(5px, 900px, 90px, 0)"
+        ]
+      }
+    ]
+  }
+}
